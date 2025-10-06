@@ -1,16 +1,30 @@
-# layout_flutter
+#### Nama: Fatima Sitta
+#### NIM : 2341760167
 
-A new Flutter project.
+# 🚀 Flutter Layout & Widget Project
 
-## Getting Started
+Proyek ini merupakan aplikasi Flutter sederhana untuk mempelajari dasar-dasar Flutter serta penerapan beberapa widget penting, mulai dari layout, button, teks, hingga image section.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshot Perkembangan
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 1️⃣ Praktikum 1: Membangun Layout di Flutter
+<p align="center">
+  <img src="assets/images/praktikum1_layout.png" alt="Membangun Layout" width="300"/>
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 2️⃣ Praktikum 2: Implementasi Button Row
+<p align="center">
+  <img src="assets/images/praktikum2_button.png" alt="Button Row" width="300"/>
+</p>
+
+### 3️⃣ Praktikum 3: Implementasi Text Section
+<p align="center">
+  <img src="assets/images/praktikum3_text.png" alt="Text Section" width="300"/>
+</p>
+
+### 4️⃣ Praktikum 4: Implementasi Image Section
+<p align="center">
+  <img src="assets/images/praktikum4_image.png" alt="Image Section" width="300"/>
+</p>
